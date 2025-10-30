@@ -1,4 +1,4 @@
-package hugolini.login_auth_jwt;
+package hugolini.login.auth.jwt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
